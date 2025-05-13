@@ -106,8 +106,8 @@ This project is [MIT](LICENSE) licensed.
 
 ## 👤 Author
 
-- GitHub: [@YourUsername](https://github.com/YourUsername)
-- LinkedIn: [Your Name](https://linkedin.com/in/YourProfile)
+- GitHub: Thilina Sandaruwan(https://github.com/tsandaruwan)
+- LinkedIn: Thilina Sandaruwan(https://linkedin.com/in/YourProfile](https://www.linkedin.com/in/b-t-sandaruwan/))
 
 ---
 
