@@ -3,6 +3,7 @@ from django.urls import path, include
 from rest_framework.routers import DefaultRouter
 from emails import views
 
+
 router = DefaultRouter()
 router.register(r'templates', views.EmailTemplateViewSet)
 router.register(r'schedules', views.EmailScheduleViewSet)

@@ -1,3 +1,6 @@
 from django.contrib import admin
+from .models import EmailTemplate, EmailSchedule, EmailHistory
 
-# Register your models here.
+admin.site.register(EmailTemplate)
+admin.site.register(EmailSchedule)
+admin.site.register(EmailHistory)
